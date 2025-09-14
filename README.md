@@ -1,4 +1,4 @@
-# Functions Lab
+# Python Functions Lab
 ### Exercise
 In this lab, you’ll get hands-on practice defining and calling functions in Python. By the end, you will be able to:
 
